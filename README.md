@@ -5,7 +5,7 @@
  2) To investigate company's manufacturing strength
 
 # Data Sourcing
- Microsoft Finance Data sample
+ Microsoft Finance Data sample, downloaded from https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students
 
 # Data Cleaning/Transformation
 An already cleaned data
