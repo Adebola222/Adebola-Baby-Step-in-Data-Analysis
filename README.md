@@ -2,7 +2,7 @@
 
 # Project Objective
  1) The aim of this study is to determine the relationship between the records of sales
- 2) To investigate company's manufacturing strength
+ 2) To investigate manufacturing strength by country/region
 
 # Data Sourcing
  Microsoft Finance Data sample, downloaded from https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students
